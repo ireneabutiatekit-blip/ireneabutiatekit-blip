@@ -1,4 +1,4 @@
-Hi, I'm Irene Dzidzor 👋
+Hi, I'm Irene Abutiate 👋
 
 I am a masters student working on Edge IoT, fog computing, adaptive compression, and blockchain-based data availability. My current research focuses on improving how fog/edge systems store, protect, and recover IoT data during limited connectivity or cloud unavailability.
 
