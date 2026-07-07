@@ -38,4 +38,7 @@ Blockchain-based trust and verification for distributed systems
 ML-based resource management at the edge
 Raspberry Pi / edge hardware prototyping
 
+📫 Connect with Me:
+LinkedIn:[Irene Abutiate](https://www.linkedin.com/in/irene-abutiate)
+GitHub:[ireneabutiatekit-blip](https://github.com/ireneabutiatekit-blip)
 
